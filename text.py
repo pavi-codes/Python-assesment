@@ -11,6 +11,6 @@ GIT COMMANDS ARE:
   git clone <link>
   git pull
   git add .
-  hit checkout -b <branchname>
+  git checkout -b <branchname>
   
   
